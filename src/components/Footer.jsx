@@ -33,7 +33,7 @@ const Footer = () => {
       </footer>
       <div className="bg-[#171646]">
         <p className="text-white w-[85%] mx-auto font-thin py-2">
-          copyright @ ApplyForMe
+          copyright @ ApplyForMeToday
         </p>
       </div>
     </>
